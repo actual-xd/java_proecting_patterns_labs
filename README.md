@@ -1,0 +1,2 @@
+# java_proecting_patterns_labs
+java_proecting_patterns_labs
